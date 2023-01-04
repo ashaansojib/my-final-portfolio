@@ -54,3 +54,13 @@ header.main-header{
 .head-description p {
     padding-bottom: 10px;
 }
+/* About Section Style */
+.about-items {
+    text-align: center;
+    padding: 105px;
+}.experince-items {
+    display: flex;
+    justify-content: space-around;
+}.about-items > p {
+    padding: 15px 0px;
+}
